@@ -1,0 +1,17 @@
+{
+  "geode": "5.11.2",
+  "gd": { "win": "2.2081" },
+  "version": "v4.7.1",
+  "id": "personal.predictive-input-buffer-hud",
+  "name": "Predictive Input Buffer",
+  "developer": "Personal modification",
+  "description": "Personal-use recreation with O hotkey and stage/buffer status logged to the Geode console.",
+  "settings": {
+    "verbose-log": {
+      "type": "bool",
+      "name": "Verbose log",
+      "description": "Print each delayed input to the Geode console.",
+      "default": false
+    }
+  }
+}
